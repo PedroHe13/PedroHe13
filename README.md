@@ -3,7 +3,7 @@
 ![](https://media.tenor.com/ew3Y-rRUYvkAAAAj/mario-64-gangname-style.gif)
 
 
-* Desenvolvimento de Sistemas* (Proz Educação)
+* Desenvolvimento de Sistemas (Proz Educação)
 
 
 📝 Atualmente Cursando o Ultimo ano no Ensino Médio 
