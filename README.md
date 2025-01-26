@@ -17,7 +17,7 @@
 <div style="display: inline">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height=60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60"/>
-<img src="[![image](https://github.com/user-attachments/assets/1fae417b-5232-4fc6-a169-a3d338208aef)](https://logospng.org/logo-css-3/)"/>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg](https://logospng.org/logo-css-3/)" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60" height="60" />
 
 </div>
