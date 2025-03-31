@@ -10,7 +10,7 @@
 
 👯‍♀️ Procurando a primeira experiencia profissional no mercado de trabalho!
 
-Mas tbm faço ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
+Mas também faço ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
 Meu Site:  
 
