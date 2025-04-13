@@ -67,9 +67,7 @@ Mas também faço ![Freelance](https://img.shields.io/badge/Freelance-29B2FE?sty
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=plastic&&logo=Github&logoColor=white&link=https://github.com/PedroHe13)](https://github.com/PedroHe13)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-rodrigues-719167341/)](https://www.linkedin.com/in/pedro-rodrigues-719167341/)
-<a href="https://mail.google.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=https://mail.google.com/" alt="Gmail Badge"/>
-</a><br>
+<a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white" alt="Gmail Badge"></a><br>
 
 <p align="center">obrigado por acessar meu perfil</p>
 
