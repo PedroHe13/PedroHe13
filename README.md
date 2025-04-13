@@ -15,7 +15,7 @@
 
 👯‍♀️ Procurando a primeira experiencia profissional no mercado de trabalho!
 
-Mas também faço ![Freelance](https://img.shields.io/badge/Freelance-29B2FE?style=for-the-badge)
+Mas também faço ![Freelance](https://img.shields.io/badge/Freelance-29B2FE?style=plastic)
 
 # Meu Portifólio 
 
