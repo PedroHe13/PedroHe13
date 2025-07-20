@@ -15,8 +15,6 @@
 
 👯‍♀️ Procurando a primeira experiencia profissional no mercado de trabalho!
 
-Mas também faço ![Freelance](https://img.shields.io/badge/Freelance-29B2FE?style=plastic)
-
 # Meu Portifólio 
 
 <div align="center"  style="margin-left: auto; margin-right: auto; width: fit-content;">
@@ -26,7 +24,8 @@ Mas também faço ![Freelance](https://img.shields.io/badge/Freelance-29B2FE?sty
 </div>
 
 ## Interesses em Tecnologia
-- FrontEnd
+- Front-End
+- Back-End
 - Web Design
 
 # Linguagens de Programação
@@ -36,6 +35,8 @@ Mas também faço ![Freelance](https://img.shields.io/badge/Freelance-29B2FE?sty
 ![HTML Badge](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=plastic&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=plastic&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow.svg?&style=plastic&logo=javascript&logoColor=white)
+![Php Badge](https://img.shields.io/badge/Php-purple.svg?&style=plastic&logo=php&logoColor=white)
+![MySql Badge](https://img.shields.io/badge/Mysql-orange.svg?&style=plastic&logo=mysql&logoColor=white)
 
 </div>
 
@@ -44,7 +45,8 @@ Mas também faço ![Freelance](https://img.shields.io/badge/Freelance-29B2FE?sty
 <div style="display: inline">
 
 <img src="https://imgs.search.brave.com/9MpR52idkWY9qHRI4yejM9jqA-H5LqvwTIYJwTCVx2E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9m/L2YzL1Zpc3VhbF9T/dHVkaW9fQ29kZV8w/LjEwLjFfaWNvbi5w/bmc" width="60" height="60" />
-<img src="https://imgs.search.brave.com/ChKaCV4dvS-XpWwhnvk6XfJVKlJvOEF4WrHpEjyRrAM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9naXRodWIt/aWNvbi01MTJ4NDk3/LW9wcHRocmUyLnBu/Zw" width="60" height="60" />
+<img src="https://imgs.search.brave.com/bVLLkfJAyrpg7y4PkcG9Fp3O5dbDg1d7ieYU1yqNuQc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzUwLzIvZ2l0aHVi/LWljb24tbG9nby1w/bmdfc2Vla2xvZ28t/NTAzMjQ3LnBuZw" width="60" height="60" />
+
 <img src="https://imgs.search.brave.com/qJnKA7J1nQ7Ryc9s2tMkKTPRsal4rqjpayMiR0k4rfY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE5/LzEwL2Fkb2JlLXBo/b3Rvc2hvcC1sb2dv/LnBuZw" width="60" height="60" />
 
 </div>
