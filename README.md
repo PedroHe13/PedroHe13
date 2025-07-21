@@ -36,7 +36,6 @@
 ![CSS Badge](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=plastic&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow.svg?&style=plastic&logo=javascript&logoColor=white)
 ![Php Badge](https://img.shields.io/badge/Php-purple.svg?&style=plastic&logo=php&logoColor=white)
-![MySql Badge](https://img.shields.io/badge/Mysql-orange.svg?&style=plastic&logo=mysql&logoColor=white)
 
 </div>
 
@@ -45,6 +44,9 @@
 <div style="display: inline">
 
 <img src="https://imgs.search.brave.com/9MpR52idkWY9qHRI4yejM9jqA-H5LqvwTIYJwTCVx2E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9m/L2YzL1Zpc3VhbF9T/dHVkaW9fQ29kZV8w/LjEwLjFfaWNvbi5w/bmc" width="60" height="60" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="70" height="70" />
+
 <img src="https://imgs.search.brave.com/bVLLkfJAyrpg7y4PkcG9Fp3O5dbDg1d7ieYU1yqNuQc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzUwLzIvZ2l0aHVi/LWljb24tbG9nby1w/bmdfc2Vla2xvZ28t/NTAzMjQ3LnBuZw" width="60" height="60" />
 
 <img src="https://imgs.search.brave.com/qJnKA7J1nQ7Ryc9s2tMkKTPRsal4rqjpayMiR0k4rfY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE5/LzEwL2Fkb2JlLXBo/b3Rvc2hvcC1sb2dv/LnBuZw" width="60" height="60" />
