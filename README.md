@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50C878&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50C878&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Pedro+Henrique;Tenho+17+anos;Sou+do+Brasil;E+estou+estudando+Desenvolvimento+de+Sistemas;Seja+Bem-Vindo+ao+meu+Perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50C878&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Pedro+Henrique;Tenho+18+anos;Sou+do+Brasil;Seja+Bem-Vindo+ao+meu+Perfil!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
    
@@ -8,12 +8,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHe13&layout=compact&count_private=true&hide_border=true&title_color=50C878&icon_color=50C878&text_color=fefffe&bg_color=0d1117" />
 </div>
 
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Mario 64](https://media.tenor.com/ew3Y-rRUYvkAAAAj/mario-64-gangname-style.gif)
 
-🧠 Estudando: Desenvolvimento de Sistemas (Proz Educação)
-
-👯‍♀️ Procurando a primeira experiencia profissional no mercado de trabalho!
 
 # Meu Portifólio 
 
