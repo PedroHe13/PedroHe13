@@ -24,29 +24,19 @@
     <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/2d/Nether_Portal_%28EW%29.gif/revision/latest?cb=20201220000743" alt="SIte" style="width: 100px; height: 100px; max-width: 100px; max-height: 100px;"/>
   </a>
 </div>
+
+# Stats
   
   <br>
 
 <div align="center">
-  <img
-    height=165
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=PedroHe13&theme=great-gatsby&show_icons=true&hide_border=true"
-  />
-  <img
-    height=165
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHe13&layout=compact&theme=great-gatsby&show_icons=true&hide_border=true"
-  />
   <br>
   <br>
     <img
     align="center"
     width="90%"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroHe13&theme=great_gatsby"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroHe13&theme=dark"
   />
  <br>
  <br>
@@ -54,7 +44,7 @@
     heigth=154
     align="center"
     alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=PedroHe13&theme=great-gatsby&hide_border=true&card_width=750&card_height=99)](https://git.io/streak-stats"
+    src="https://github-readme-streak-stats.herokuapp.com?user=PedroHe13&theme=dark&hide_border=true&card_width=750&card_height=99)](https://git.io/streak-stats"
   />
   </div>
 
