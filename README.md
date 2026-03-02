@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50C878&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Pedro+Henrique;Tenho+18+anos;Sou+do+Brasil;Seja+Bem-Vindo+ao+meu+Perfil!+:%29)](https://git.io/typing-svg)
 
    <div align="center">
-  <img src="https://tenor.com/pt-BR/view/lego-lego-stud-purple-gif-20546662" width="200px"/>
+  <img src="https://media.tenor.com/QNZcBAHCkyAAAAAj/lego-lego-stud.gif" width="200px"/>
 </div>
 
 <br>
