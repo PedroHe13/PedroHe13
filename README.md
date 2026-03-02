@@ -3,27 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50C878&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Pedro+Henrique;Tenho+18+anos;Sou+do+Brasil;Seja+Bem-Vindo+ao+meu+Perfil!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-   
-<!-- Statistics: Commit series -->
-<picture>
-  <source srcset="https://raw.githubusercontent.com/PedroHe13/README.md/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/PedroHe13/README.md/main/output/stats_commits.svg">
-</picture>
-<!-- Statistics: Programming languages -->
-<picture>
-  <source srcset="https://raw.githubusercontent.com/PedroHe13/README.md/main/output/stats_langs.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/PedroHe13/README.md/main/output/stats_langs.svg">
-</picture>
-<!-- Statistics: General statistics -->
-<picture>
-  <source srcset="https://raw.githubusercontent.com/PedroHe13/README.md/main/output/stats_general.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/PedroHe13/README.md/main/output/stats_general.svg">
-</picture>
-<!-- Statistics: Unique repository visitors -->
-<picture>
-  <source srcset="https://raw.githubusercontent.com/PedroHe13/README.md/main/output/stats_visitors.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/PedroHe13/README.md/main/output/stats_visitors.svg">
-</picture>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Mario 64](https://media.tenor.com/ew3Y-rRUYvkAAAAj/mario-64-gangname-style.gif)
 
