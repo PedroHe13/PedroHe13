@@ -4,7 +4,26 @@
 
 <div align="center">  
    
-![Pedro GitHub stats](https://pixel-profile.vercel.app/api/github-stats?username=<PedroHe13>&theme=crt)
+<!-- Statistics: Commit series -->
+<picture>
+  <source srcset="https://raw.githubusercontent.com/PedroHe13/README.md/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/PedroHe13/README.md/main/output/stats_commits.svg">
+</picture>
+<!-- Statistics: Programming languages -->
+<picture>
+  <source srcset="https://raw.githubusercontent.com/PedroHe13/README.md/main/output/stats_langs.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/PedroHe13/README.md/main/output/stats_langs.svg">
+</picture>
+<!-- Statistics: General statistics -->
+<picture>
+  <source srcset="https://raw.githubusercontent.com/PedroHe13/README.md/main/output/stats_general.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/PedroHe13/README.md/main/output/stats_general.svg">
+</picture>
+<!-- Statistics: Unique repository visitors -->
+<picture>
+  <source srcset="https://raw.githubusercontent.com/PedroHe13/README.md/main/output/stats_visitors.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/PedroHe13/README.md/main/output/stats_visitors.svg">
+</picture>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Mario 64](https://media.tenor.com/ew3Y-rRUYvkAAAAj/mario-64-gangname-style.gif)
 
