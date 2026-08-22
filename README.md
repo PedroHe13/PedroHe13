@@ -29,7 +29,7 @@
     align="center"
     width="90%"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroHe13&theme=dark"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroHe3&theme=dark"
   />
  <br>
  <br>
